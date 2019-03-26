@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90.233398mm"
+   height="17.984549mm"
+   viewBox="0 0 90.233398 17.984549"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logotest.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-269.88895"
+     inkscape:cy="-58.337878"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:measure-start="-545.714,820"
+     inkscape:measure-end="360,248.571"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.731185,-115.41355)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="49.136906"
+       y="127.66666"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="49.136906"
+         y="127.66666"
+         style="stroke-width:0.26458332">СоњаБаштић</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke-width:0.02645833;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path819"
+       sodipodi:sides="5"
+       sodipodi:cx="130.96875"
+       sodipodi:cy="123.69791"
+       sodipodi:r1="9.728611"
+       sodipodi:r2="4.864305"
+       sodipodi:arg1="0.39060704"
+       sodipodi:arg2="1.0189256"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 139.96458,127.40207 -6.44557,0.43801 -3.29327,5.55802 -2.40836,-5.99475 -6.30367,-1.41456 4.95712,-4.14297 -0.60261,-6.43227 5.47203,3.43426 5.93124,-2.5608 -1.57522,6.26545 z"
+       inkscape:transform-center-x="0.22960327"
+       inkscape:transform-center-y="0.70792064" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="finish"
+     transform="translate(-49.731185,-115.41355)" />
+</svg>
